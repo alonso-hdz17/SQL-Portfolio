@@ -1,2 +1,2 @@
 # SQL-Portfolio
-A portfolio containing SQL projects.
+A portfolio containing some of my SQL projects.
